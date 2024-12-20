@@ -1,0 +1,7 @@
+projects:
+  ml_spotify_rec:
+    path: ml_spotify_rec
+  unit_0_setup: {}
+  unit_1_data_preparation: {}
+  unit_2_training: {}
+  unit_3_observability: {}
